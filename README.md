@@ -1,7 +1,7 @@
 # Registration Form Project
 
 ## Overview
-This project is a registration form created as Assignment 1 for Bharat Intern. It utilizes HTML, CSS, JavaScript, Node.js, and MongoDB.
+This project is a registration form. It utilizes HTML, CSS, JavaScript, Node.js, and MongoDB.
 
 ## Features
 - User-friendly registration form interface.
